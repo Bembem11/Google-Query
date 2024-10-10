@@ -1,9 +1,10 @@
 # Google-Query
 
 ## Project Overview
+ which is a great tool for analyzing, transforming data similar to SQL but in Google Sheets
 
 ## Data Sources
-The data was gotten from an open data source called Google Sheets
+The data was gotten from an open data source called Google Sheets. [Download Here](https://docs.google.com/spreadsheets)
 
 ## Tools used
 - Google Sheets
@@ -12,7 +13,7 @@ The data was gotten from an open data source called Google Sheets
 I have been learning about making queries on Google sheets
 - Using SELECT to choose retrieve columns of data.
 ```
-SQL STATEMENT 
+SQL STATEMENT =QUERY(A1:H44,"SELECT *",1)
 ```
 Sorting data in either Ascending or Descending with ORDER BY to make it easier to analyze.
 ```

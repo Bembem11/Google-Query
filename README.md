@@ -1,16 +1,20 @@
 # Google-Query
 
 ## Project Overview
-I’ve been learning more about Google Sheets QUERY, which is a great tool for analyzing, transforming data similar to SQL but in Google Sheets
+I’ve been exploring how to use QUERY to make working with data more efficient and easier. This repository documents what I’ve learned so far.
+
+Google Sheets QUERY is like SQL inside a spreadsheet. It allows you to filter, sort, and analyze data with powerful functions. 
 
 ## Data Sources
 The data was gotten from an open data source called Google Sheets. [Download Here](https://docs.google.com/spreadsheets/d/11VOyqzG1FfVxIKcNZ9iAH2_Nv5OHhFxzlhI2Ag4e8_A/edit?usp=sharing)
 
-## Tools used
+## Tools Used
 - Google Sheets for Querying of Data
 - Github for Portfolio Building
+  
 
-I have been learning about making queries on Google sheets:
+## What I Have Learnt:
+ Here’s a breakdown of key functions I’ve been practicing:
 - Using SELECT to choose retrieve columns of data.
 ```
 SQL STATEMENT
@@ -55,3 +59,4 @@ SQL STATEMENT
 ```
 <img width="654" alt="query 1" src="https://github.com/user-attachments/assets/7f0fdf4f-7e7e-4d82-bb9d-35ccefb391e1">
 
+One of the main benefits I’ve experienced is easier data management. I can retrieve and manipulate data more efficiently, saving me time to explore the data by organizing and filtering large datasets so I can easily identify trends and patterns and gain better insights.

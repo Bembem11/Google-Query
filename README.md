@@ -1,16 +1,16 @@
 # Google-Query
 
 ## Project Overview
- which is a great tool for analyzing, transforming data similar to SQL but in Google Sheets
+I’ve been learning more about Google Sheets QUERY, which is a great tool for analyzing, transforming data similar to SQL but in Google Sheets
 
 ## Data Sources
 The data was gotten from an open data source called Google Sheets. [Download Here](https://docs.google.com/spreadsheets)
 
 ## Tools used
-- Google Sheets
+- Google Sheets for Querying of Data
 - Github for Portfolio Building
 
-I have been learning about making queries on Google sheets
+I have been learning about making queries on Google sheets:
 - Using SELECT to choose retrieve columns of data.
 ```
 SQL STATEMENT =QUERY(A1:H44,"SELECT *",1)
@@ -39,3 +39,4 @@ Summarizing data with AGGREGATE functions like SUM, AVG, MIN AND MAX
 ```
 SQL STATEMENT =QUERY(A1:H44,"SELECT SUM(H),MAX(H),MIN(H),AVG(H)",1)
 ```
+

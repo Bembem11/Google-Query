@@ -39,4 +39,5 @@ Summarizing data with AGGREGATE functions like SUM, AVG, MIN AND MAX
 ```
 SQL STATEMENT =QUERY(A1:H44,"SELECT SUM(H),MAX(H),MIN(H),AVG(H)",1)
 ```
+<img width="654" alt="query 1" src="https://github.com/user-attachments/assets/7f0fdf4f-7e7e-4d82-bb9d-35ccefb391e1">
 

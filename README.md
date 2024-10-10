@@ -4,7 +4,7 @@
 I’ve been learning more about Google Sheets QUERY, which is a great tool for analyzing, transforming data similar to SQL but in Google Sheets
 
 ## Data Sources
-The data was gotten from an open data source called Google Sheets. [Download Here](https://docs.google.com/spreadsheets)
+The data was gotten from an open data source called Google Sheets. [Download Here](https://docs.google.com/spreadsheets/d/11VOyqzG1FfVxIKcNZ9iAH2_Nv5OHhFxzlhI2Ag4e8_A/edit?usp=sharing)
 
 ## Tools used
 - Google Sheets for Querying of Data

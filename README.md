@@ -25,5 +25,16 @@ Restricting results with LIMIT to focus on just the most important data
 Finding specific information with LIKE to match patterns in data.
 ```
 SQL STATEMENT =QUERY(A1:H44,"SELECT A,B WHERE B LIKE 'R%'",1)
-              =QUERY(A1:H44,"SELECT B,C WHERE B LIKE '%an%'",1)
+```
+Combining conditions with AND and OR to get exactly the data I need
+```
+SQL STATEMENT =QUERY(A1:H44,"SELECT C,D,E,F WHERE D LIKE '%_4'AND (E='Jul' OR E='Dec') AND F=2014",1)
+```
+Filtering data with WHERE to show only the rows that meet certain conditions.
+```
+SQL STATEMENT =QUERY(A1:H44,"SELECT A,C,H WHERE H<100",1)
+```
+Summarizing data with AGGREGATE functions like SUM, AVG, MIN AND MAX
+```
+SQL STATEMENT =QUERY(A1:H44,"SELECT SUM(H),MAX(H),MIN(H),AVG(H)",1)
 ```

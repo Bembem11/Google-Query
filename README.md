@@ -59,4 +59,4 @@ SQL STATEMENT
 ```
 <img width="654" alt="query 1" src="https://github.com/user-attachments/assets/7f0fdf4f-7e7e-4d82-bb9d-35ccefb391e1">
 
-One of the main benefits I’ve experienced is easier data management. I can retrieve and manipulate data more efficiently, saving me time to explore the data by organizing and filtering large datasets so I can easily identify trends and patterns and gain better insights.
+One of the main benefits I’ve experienced is easier data management. I can retrieve and manipulate data more efficiently, saving me time to explore the data by organizing and filtering large datasets. I can identify trends and patterns and gain better insights.
